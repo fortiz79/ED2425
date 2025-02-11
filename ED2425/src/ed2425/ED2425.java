@@ -15,7 +15,7 @@ public class ED2425 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola ED 2425");
+        System.out.println("Hola ED 2425 Alfosno X");
     }
     
 }
